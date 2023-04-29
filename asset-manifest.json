@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TrendMovies/static/css/main.5720b3f8.css",
+    "main.js": "/TrendMovies/static/js/main.e2be69b8.js",
+    "static/media/landing1.jpg": "/TrendMovies/static/media/landing1.f5116719fccc75c2c01e.jpg",
+    "static/media/fa-solid-900.ttf": "/TrendMovies/static/media/fa-solid-900.de78ce19b6954a6f4144.ttf",
+    "static/media/bg.jpg": "/TrendMovies/static/media/bg.1016007dcbe4031ed5ad.jpg",
+    "static/media/Poster.jpg": "/TrendMovies/static/media/Poster.4adcb7c3170f604b1df5.jpg",
+    "static/media/fa-brands-400.ttf": "/TrendMovies/static/media/fa-brands-400.c90f83fd0c6c34dd638f.ttf",
+    "static/media/offer.jpg": "/TrendMovies/static/media/offer.6f673599300a5706f395.jpg",
+    "static/media/fa-solid-900.woff2": "/TrendMovies/static/media/fa-solid-900.5cb518f1dd00e7374eb8.woff2",
+    "static/media/fa-brands-400.woff2": "/TrendMovies/static/media/fa-brands-400.123e8cfb2b8bcdef2c3a.woff2",
+    "static/media/Thor.png": "/TrendMovies/static/media/Thor.be1eba1de635e3509820.png",
+    "static/media/fa-regular-400.ttf": "/TrendMovies/static/media/fa-regular-400.ce1650acad36ae1d3c93.ttf",
+    "static/media/fa-regular-400.woff2": "/TrendMovies/static/media/fa-regular-400.86fd3b02c25ecde4a02b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/TrendMovies/static/media/fa-v4compatibility.f2268f438379a3e39843.ttf",
+    "static/media/fa-v4compatibility.woff2": "/TrendMovies/static/media/fa-v4compatibility.a9f39cf4a35334e80396.woff2",
+    "index.html": "/TrendMovies/index.html",
+    "main.5720b3f8.css.map": "/TrendMovies/static/css/main.5720b3f8.css.map",
+    "main.e2be69b8.js.map": "/TrendMovies/static/js/main.e2be69b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5720b3f8.css",
+    "static/js/main.e2be69b8.js"
+  ]
+}
